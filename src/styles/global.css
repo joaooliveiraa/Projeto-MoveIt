@@ -40,11 +40,11 @@ a {
 
 :root {
   --white: #fff;
-  --background: #f2f3f5;
+  --background:  linear-gradient(#0d1117, #30363d);;
   --gray-line: #dcdde0;
   --text: #666666;
   --text-highlinght: #b3b9ff;
-  --title: #2e384d;
+  --title: #4953b8;;
   --red: #e83f5b;
   --green: #4cd62b;
   --blue: #5965e0;

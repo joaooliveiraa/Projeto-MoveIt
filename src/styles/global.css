@@ -40,7 +40,7 @@ a {
 
 :root {
   --white: #fff;
-  --background:  linear-gradient( #30363d, #0d1117);;
+  --background:  linear-gradient(#0d1117, #30363d);;
   --gray-line: #dcdde0;
   --text: #666666;
   --text-highlinght: #b3b9ff;
